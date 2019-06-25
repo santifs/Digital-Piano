@@ -1,0 +1,1 @@
+int sndNota (int oct, int nota);
